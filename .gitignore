@@ -5,6 +5,6 @@
 __pycache__/
 *.pyc
 
-# Ignoriere virtuelle Umgebungen (falls du eine nutzt)
-venv/
+# Ignoriere virtuelle Umgebungen
+
 drohnen_env/
