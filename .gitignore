@@ -1,0 +1,10 @@
+# Ignoriere YOLO Modelle
+*.pt
+
+# Ignoriere Python Cache
+__pycache__/
+*.pyc
+
+# Ignoriere virtuelle Umgebungen (falls du eine nutzt)
+venv/
+drohnen_env/
