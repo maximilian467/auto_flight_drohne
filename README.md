@@ -1,0 +1,1 @@
+Projket steht aktuell noch sehr in den startlöchern, der python code läuft aktuell auf dem pi 5 mit der pi2 cam wide. In Zukunft werde ich hier noch mehr updates zu bringen und auch dokumentieren wie mein drohnen build aussieht.
